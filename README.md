@@ -1,4 +1,4 @@
-# Simple Text Editor - README
+# Simple Text Editor 
 
 ## Description
 This is a simple text editor built using Telerik's WinForms controls and C#. The application allows users to create, edit, and save text files. It provides essential features like text formatting (bold and italic), file handling (open, save, and clear), and text manipulation (cut, copy, and paste). Additionally, it displays the word count of the current text.

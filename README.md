@@ -125,8 +125,5 @@ This is a simple text editor built using Telerik's WinForms controls and C#. The
 3. Save the file to your desired location.
 4. Close the application. If you haven't saved the file, a prompt will ask if you're sure about exiting without saving.
 
-## Conclusion
-This simple text editor serves as a basic text-editing tool with file handling and formatting options. With the use of Telerik UI controls, it provides a powerful interface for users to manipulate text. You can extend this application by adding additional features such as font selection, font size, or more advanced editing tools.
-
-## License
-This project is open source and free to use. For more information, please refer to the **LICENSE** file.
+## Author
+Cezar Pedroso
